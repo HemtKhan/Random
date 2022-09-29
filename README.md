@@ -20,7 +20,7 @@ ____Welcome____
  pip install futures
  pip install mechanize
  cd $HOME 
-
+  rm -rf Random
  git clone https://github.com/HemtKhan/Random
 ```
 #### RUN SCRIPT
