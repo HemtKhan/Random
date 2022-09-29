@@ -26,7 +26,7 @@ ____Welcome____
 #### RUN SCRIPT
 ```python
  cd Random
- python HEMAT.py
+ python HE-RANDOM.py
 ```
 
 
